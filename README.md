@@ -8,3 +8,6 @@ This is PyTorch Version of Python Library Chicksexer to predict gender based on 
 
 **Using Inference Mode**:
   * 1: python predict.py
+
+**Data Source**
+https://mbejda.github.io/
